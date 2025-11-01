@@ -31,7 +31,7 @@ function App() {
       </div>
 
       <div>
-        <h1>Hello Talha</h1>
+        <h1>Hello Shanto</h1>
       </div>
     </>
   );
