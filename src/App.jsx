@@ -29,6 +29,10 @@ function App() {
       <div>
         <h1>Hello Talha</h1>
       </div>
+
+      <div>
+        <h1>Hello Talha</h1>
+      </div>
     </>
   );
 }
